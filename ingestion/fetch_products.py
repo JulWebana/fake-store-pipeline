@@ -63,12 +63,12 @@ if __name__ == "__main__":
 
 
     print("Fetching data from Fake Store API...")
-    product_data = fetch_product_data()                   # Step 1: API call
+    product_data = fetch_product_data()                   # API call
     
 
     print("Saving data locally...")
-    save_to_csv(product_data, local_file)                 # Step 2: Save to CSV
+    save_to_csv(product_data, local_file)                 # Save to CSV
     
 
     print("Uploading to Google Cloud Storage...")
-    upload_to_gcs(str(local_file), BUCKET_NAME, DESTINATION_BLOB_NAME)  # Étape 3 : upload to GCS
+    upload_to_gcs(str(local_file), BUCKET_NAME, DESTINATION_BLOB_NAME)  # Upload to GCS
