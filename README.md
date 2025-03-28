@@ -48,6 +48,7 @@ Uploads it to your configured GCS bucket
 
 
 ## Author
-Julien T.W AGA
-Junior Data Engineer – 2025
+Julien T.W AGA 
+
+Junior Data Engineer & Analytics Enthusiast – 2025
 
