@@ -22,8 +22,8 @@ fake-store-pipeline/
 ├── ingestion/
 │   ├── config.py           # Contains GCS bucket config
 │   └── fetch_products.py   # Script to fetch data from API and upload to GCS
-├── requirements.txt 
-└── README.md        # Python dependencies
+├── requirements.txt        # Python dependencies
+└── README.md        
 ```
 
 ## How to Run it :
