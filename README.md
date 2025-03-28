@@ -1,4 +1,4 @@
-# Step 1 Fake Store Ingestion Pipeline
+# Step 1 - Fake Store Ingestion Pipeline
 
 This repository contains a Python pipeline to:
 
